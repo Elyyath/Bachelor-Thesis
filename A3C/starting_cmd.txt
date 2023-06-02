@@ -1,0 +1,2 @@
+um das Training zu starten Folgenden Command eingeben:
+python a3c.py --train
